@@ -1,0 +1,6 @@
+streamlit
+requests
+pypdf
+gTTS
+audio-recorder-streamlit
+pillow
